@@ -1,3 +1,42 @@
 site_name: Jongwon Lee
+site_url: https://bluefriend.github.io/
+repo_url: https://github.com/bluefriend
+repo_name: Jongwon Lee's github
+strict: true
+site_author: Jongwon Lee
 theme:
     name: material
+    logo: imgs/icon.png
+    favicon: imgs/icon.png
+    language: kr
+    font: 
+        text: Roboto # Noto Sans # Roboto
+        code: Roboto Mono
+    features:
+        - navigation.tabs
+        - navigation.instant
+        - navigation.indexes
+        - navigation.top
+        - navigation.sections
+        - navigation.tracking
+    icon:
+        repo: fontawesome/brands/github
+nav:
+    - Profile: index.md
+    - Projects:
+        - Graduate: projects/graduate.md
+    - Blog: blog/graduate.md
+    - Photo: photo/index.md
+    - Hobby: hobby/index.md
+markdown_extensions:
+  - attr_list
+  - md_in_html
+extra:
+    alternate:
+        - name: 한국어
+          link: /
+          lang: kr
+        - name: English
+          link: /en/
+          lang: en
+        
