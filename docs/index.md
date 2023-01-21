@@ -8,16 +8,20 @@ hide:
 
 ## ** Name **
 ---
-**이종원**
+이종원
 
 ## ** Experiences **
 ---
 
 - 버넥트 ( 2018.09 ~ )
+    - AR 개발자
+    - Application 팀장
 - 텐일레븐 ( 2017.09 ~ 2018.09 )
+    - AR 개발자
 - 한국과학기술원 문화기술대학 ( 2017.02 ~ 2018.09 )
+    - 위촉 연구원
 
-## ** Skilset **
+## ** Skillset **
 ---
 | Language   | Libraries    |    Tools  |    IDE        |
 |   ---      |   ---        |    ---    |  ---          |
@@ -26,7 +30,7 @@ hide:
 | Objective-C| OpenCL       | Github    | Android Studio|
 | Javascript | NDK          | JIRA      | XCode         |
 | Python     | Emscripten   | SonarQube |
-|            | Easy_profiler|  Unity3D  |
+| TypeScript | Easy_profiler|  Unity3D  |
 |            | Three.JS     | Slack     |
 |            | MKDocs       | 
 
@@ -34,9 +38,6 @@ hide:
 ---
 
 - 충남대학교 컴퓨터공학과
-
-## ** Awards **
----
 
 ## ** Languages **
 ---

@@ -1,4 +1,4 @@
-site_name: Jongwon Lee
+site_name: Jongwon Lee's everything
 site_url: https://bluefriend.github.io/
 repo_url: https://github.com/bluefriend
 repo_name: Jongwon Lee's github
@@ -8,7 +8,7 @@ theme:
     name: material
     logo: imgs/icon.png
     favicon: imgs/icon.png
-    language: kr
+    language: en
     font: 
         text: Roboto # Noto Sans # Roboto
         code: Roboto Mono
@@ -26,10 +26,14 @@ theme:
 nav:
     - Profile: index.md
     - Projects:
-        - Graduate: projects/graduate.md
-        - Google Tango depth filtering: projects/tango.md
-        - Virtual city visualize: projects/city_visualize_web.md
-        - Track SDK:
+        - Student:
+            - Graduate: projects/graduate.md
+            - Embeded firmware: projects/embeded.md
+            - Tracker on mobile: projects/tracker.md
+        - Teneleven:
+            - Google Tango depth filtering: projects/tango.md
+            - Virtual city visualize: projects/city_visualize_web.md
+        - VIRNECT:
             - CMake: projects/cmake.md
             - CI/CD: projects/cicd.md
             - Unity3D interface: projects/csharp_interface.md
@@ -53,4 +57,7 @@ extra:
           lang: en
 extra_css:
   - stylesheets/extra.css
+plugins:
+  - mkdocs-video:
+      is_video: True
         
