@@ -27,3 +27,8 @@ Developing intuitive drone’s camera module using Head Mounted Display, Android
 ## Video
 Music is loud so be careful
 ![type:video](../videos/Rotate.mp4)
+
+## Awards
+- Selected as exhibition team in Google's Hackfair
+- General Scholarship Competition Special prize
+- Idea Comptetition Excellence award
