@@ -1,16 +1,17 @@
 ![Overview](../imgs/city/overview.png){ width="80%"}
 
 ## Objective
-Visualize city plan
+Visualize virtual city using WebGL
 
 ## Environment
+  - VSCode
+  - Three.JS
+  - Javascript
 
-### Skill
-- Three.JS
-- Javascript
-- Unity3D
-
-## Shadow bake using Unity3D
-![type:video](../imgs/city/shadow.mp4)
-
-
+## Feature
+  - Fetch data from server
+  - Create terrain and building mesh
+  - Calculate real sun angle, azimuth for visualizing shadow at certain time
+  
+## Flow
+![Overview](../imgs/city/flow.png){ width="100%"}

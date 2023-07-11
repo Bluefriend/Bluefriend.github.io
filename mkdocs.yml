@@ -25,25 +25,21 @@ theme:
         accent: indigo
 nav:
     - Profile: index.md
-    - Projects:
-        - Student:
-            - Graduate: projects/graduate.md
-            - Embeded firmware: projects/embeded.md
-            - Tracker on mobile: projects/tracker.md
-        - Teneleven:
-            - Google Tango depth filtering: projects/tango.md
-            - Virtual city visualize: projects/city_visualize_web.md
-        - VIRNECT:
-            - CMake: projects/cmake.md
-            - CI/CD: projects/cicd.md
-            - Unity3D interface: projects/csharp_interface.md
-            - Android AAR: projects/android_aar.md
-            - iOS: projects/ios_sample.md
-            - OpenGL: projects/opengl_sample.md
-            - WebAssembly: projects/webassembly.md
-    - Blog: blog/graduate.md
-    - Photo: photo/index.md
-    - Hobby: hobby/index.md
+    - Student:
+        - Graduate: projects/graduate.md
+        - Embeded firmware: projects/embeded.md
+        - Tracker on mobile: projects/tracker.md
+    - Teneleven:
+        - Google Tango depth filtering: projects/tango.md
+        - Virtual city visualize: projects/city_visualize_web.md
+    - VIRNECT:
+        - CMake: projects/cmake.md
+        - CI/CD: projects/cicd.md
+        - Unity3D interface: projects/csharp_interface.md
+        - Android AAR: projects/android_aar.md
+        - iOS: projects/ios_sample.md
+        - OpenGL: projects/opengl_sample.md
+        - WebAssembly: projects/webassembly.md
 markdown_extensions:
   - attr_list
   - md_in_html

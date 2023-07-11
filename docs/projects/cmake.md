@@ -37,6 +37,9 @@ CMake를 이용하여 C++로 작성되어 있는 모듈을 각 플랫폼에서 �
 - cmake
     - utils.cmake
 - doc
+- module
+    - SampleModule
+      - CMakeLists.txt
 - platform
     - Android
       - CMakeLists.txt

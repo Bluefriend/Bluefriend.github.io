@@ -1,20 +1,30 @@
 ## Goal
 ---
-C++로 짜여진 모듈을 Emscripten과 CMake를 이용하여 WebAssembly로 변환
+Make Webassembly module using Emscripten, CMake 
 
 ## Output
 ---
-* WASM
-* Interface 역활의 Javascript
-* Threading을 담당하는 Worker
+- WASM
+- Javascript file for interfacing
+- Javascript file for threading
+- NPM Module
 
 ## Tools
 ---
-![](https://emscripten.org/_static/Emscripten_logo_full.png){ width="200" }
-![](https://blog.desdelinux.net/wp-content/uploads/2019/07/cmake.jpg){ width="200" }
+- Emscripten
+    - Embind
+- CMake
+- Clion
+
+## Feature
+
+- C++ interface using [Embind](https://emscripten.org/docs/porting/connecting_cpp_and_javascript/embind.html)
+- SIMD/None SIMD version compile
+  - SIMD for latest version of browser
+  - None SIMD for Safari (under 15.4) or browser that does not support SIMD feature
+- Interface for Typescript
+- Wrapping it into NPM module that can be imported by other application
 
 ## Flow
 ---
-![WASM build flow](../imgs/wasm-flow.png){ width="100%"}
-
-## 
+![WASM build flow](../imgs/wasm/flow.png){ width="100%"}
