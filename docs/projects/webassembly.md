@@ -1,4 +1,4 @@
-## Goal
+## Objective
 ---
 Make Webassembly module using Emscripten, CMake 
 
@@ -17,7 +17,7 @@ Make Webassembly module using Emscripten, CMake
 - Clion
 
 ## Feature
-
+---
 - C++ interface using [Embind](https://emscripten.org/docs/porting/connecting_cpp_and_javascript/embind.html)
 - SIMD/None SIMD version compile
   - SIMD for latest version of browser

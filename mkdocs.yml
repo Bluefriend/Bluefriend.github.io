@@ -36,9 +36,9 @@ nav:
         - CMake: projects/cmake.md
         - CI/CD: projects/cicd.md
         - Unity3D interface: projects/csharp_interface.md
-        - Android AAR: projects/android_aar.md
-        - iOS: projects/ios_sample.md
-        - OpenGL: projects/opengl_sample.md
+        - Camera module: projects/camera.md
+        - Pose estimation: projects/poseestimation.md
+        - Floor estimation: projects/depth.md
         - WebAssembly: projects/webassembly.md
 markdown_extensions:
   - attr_list

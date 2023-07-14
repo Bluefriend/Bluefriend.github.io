@@ -1,4 +1,4 @@
-## Goal
+## Objective
 ---
 Establish continuous integration system for SDK
 
@@ -11,6 +11,7 @@ Establish continuous integration system for SDK
 - Docker
 - Sonarqube
 - Doxygen
+- Grafana
 - Clang-format
 - Google Sanitizer
 - NGINX
@@ -36,6 +37,6 @@ Establish continuous integration system for SDK
 - Maintanence system using Docker
 
 
-## Flow
+## Overview
 ---
-![WASM build flow](../imgs/wasm/flow.png){ width="100%"}
+![CICD system overview](../imgs/cicd/overview.png){ width="100%"}
