@@ -39,6 +39,8 @@ Implement camera module that can access pixel data from C++ SDK
 ## Flow
 ---
 ### Android
-
+![Android camera flow](../imgs/camera/android_flow.png){ width="100%"}
+### iOS/MACOS
+![Apple camera flow](../imgs/camera/apple_flow.png){ width="100%"}
 ### Web
 ![Web camera flow](../imgs/camera/web_flow.png){ width="100%"}
