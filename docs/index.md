@@ -4,22 +4,22 @@ hide:
   - toc
 ---
 
-![Jongwon Lee](imgs/profile.jpg){ width="50%"}
+![Jongwon Lee](imgs/profile.jpg){ width="30%"}
 
 ## ** Name **
 ---
-이종원
+Jongwon Lee
 
 ## ** Experiences **
 ---
 
-- 버넥트 ( 2018.09 ~ )
-    - AR 개발자
-    - Application 팀장
-- 텐일레븐 ( 2017.09 ~ 2018.09 )
-    - AR 개발자
-- 한국과학기술원 문화기술대학 ( 2017.02 ~ 2018.09 )
-    - 위촉 연구원
+- VIRNECT ( 2018.09 ~ )
+    - AR developer
+    - Team leader of Application team
+- Teneleven ( 2017.09 ~ 2018.09 )
+    - AR developer
+- KAIST KI-ITC ARRC ( 2017.02 ~ 2018.09 )
+    - Research Staff
 
 ## ** Skillset **
 ---
@@ -30,16 +30,14 @@ hide:
 | Objective-C| OpenCL       | Github    | Android Studio|
 | Javascript | NDK          | JIRA      | XCode         |
 | Python     | Emscripten   | SonarQube |
-| TypeScript | Easy_profiler|  Unity3D  |
-|            | Three.JS     | Slack     |
-|            | MKDocs       | 
+| TypeScript | MKDocs       |  Unity3D  |
+| C#         | Three.JS     | Slack     |
 
 ## ** Education **
 ---
-
-- 충남대학교 컴퓨터공학과
+- Computer Convergence of Chungnam National University
 
 ## ** Languages **
 ---
-- 한국어: 모국어
-- 영어: 일상대화
+- Korean
+- English

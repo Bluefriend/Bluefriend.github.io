@@ -35,6 +35,10 @@ Implement camera module that can access pixel data from C++ SDK
     - Use [MediaStreamTrackProcessor](https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrackProcessor) if browser support
     - Use [WebGL](https://developer.mozilla.org/ko/docs/Web/API/WebGL_API/Tutorial/Getting_started_with_WebGL) and use ReadPixels
 
+### Unity3D
+- Grab camera from Android/PC
+    - Import AAR and access AAR in Unity3D
+    - Import dynamic library and access functions in Unity3D
 
 ## Flow
 ---
@@ -42,5 +46,7 @@ Implement camera module that can access pixel data from C++ SDK
 ![Android camera flow](../imgs/camera/android_flow.png){ width="100%"}
 ### iOS/MACOS
 ![Apple camera flow](../imgs/camera/apple_flow.png){ width="100%"}
+### Unity3D
+![Unity3D camera flow](../imgs/camera/unity3d_flow.png){ width="100%"}
 ### Web
 ![Web camera flow](../imgs/camera/web_flow.png){ width="100%"}

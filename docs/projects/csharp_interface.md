@@ -17,9 +17,6 @@ Implement Unity3D camera module between C++ and C#
 - RenderScript
 - NDK
 
-### PC
-- VisualStudio
-- OpenPNP-Capture
 
 ## Feature
 ---
@@ -28,16 +25,9 @@ Implement Unity3D camera module between C++ and C#
 - Convert color from YUV to RGBA or Gray
 - Get pixel data in C++
 
-### iOS/MACOS
-- Access camera using AVCapture framework
-- Grab pixel buffer from CVImageBufferRef
-- Pass through to UIImage/NSImage for preview
+### PC
+- Open device camera (USB Camera)
 
-### Web
-- Open device camera (Android/ iOS/ Webcam)
-- Grab frame pixel buffer
-    - Use [MediaStreamTrackProcessor](https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrackProcessor) if browser support
-    - Use [WebGL](https://developer.mozilla.org/ko/docs/Web/API/WebGL_API/Tutorial/Getting_started_with_WebGL) and use ReadPixels
 
 
 ## Flow
