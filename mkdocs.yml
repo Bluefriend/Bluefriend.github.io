@@ -1,4 +1,4 @@
-site_name: Jongwon Lee's everything
+site_name: Jongwon Lee
 site_url: https://bluefriend.github.io/
 repo_url: https://github.com/bluefriend
 repo_name: Jongwon Lee's github
@@ -43,14 +43,6 @@ nav:
 markdown_extensions:
   - attr_list
   - md_in_html
-extra:
-    alternate:
-        - name: 한국어
-          link: /
-          lang: kr
-        - name: English
-          link: /en/
-          lang: en
 extra_css:
   - stylesheets/extra.css
 plugins:
