@@ -1,6 +1,7 @@
 ## Objective
 ---
-Calculate target pose and visualize the result
+- Capture frame and sensor data on mobile
+- Calculate target pose and visualize the result on PC application
 
 ## Tools
 ---

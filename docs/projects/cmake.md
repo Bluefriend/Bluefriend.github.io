@@ -4,7 +4,7 @@
 ---
 Build libraries or executables for cross-platform using CMake
 
-## Cross platform
+## Platforms
 ---
 - Windows
     - MSVC
