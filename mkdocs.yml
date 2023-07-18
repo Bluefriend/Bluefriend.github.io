@@ -33,13 +33,15 @@ nav:
         - Google Tango depth filtering: projects/tango.md
         - Virtual city visualize: projects/city_visualize_web.md
     - VIRNECT:
-        - CMake: projects/cmake.md
-        - CI/CD: projects/cicd.md
-        - Unity3D interface: projects/csharp_interface.md
-        - Camera module: projects/camera.md
-        - Pose estimation: projects/poseestimation.md
-        - Floor estimation: projects/depth.md
-        - WebAssembly: projects/webassembly.md
+        - Track:
+            - CMake: projects/cmake.md
+            - CI/CD: projects/cicd.md
+            - Camera module: projects/camera.md
+            - WebAssembly: projects/webassembly.md
+        - External:
+            - Pose estimation: projects/poseestimation.md
+            - Floor estimation: projects/depth.md
+            - AR with Unity3D: projects/unity_project.md
 markdown_extensions:
   - attr_list
   - md_in_html
